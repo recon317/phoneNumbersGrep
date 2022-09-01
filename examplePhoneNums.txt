@@ -1,0 +1,9 @@
+Example phone numbers that can be found:
+Extra lines to test
+Ryan's phone number is (123)456-7891
+Phone number two is 123.555.1212 !!!
+Another possibility is 570-555-1212
+And finally we have +1.570.555.1212
+Extra lines to test
+Another 
+One last one
